@@ -240,7 +240,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ##### REPO:
 * GitHub repository: printf
 #
-### Authors
+# Authors
 
      - **[Abdelrahman Mostafa](./https://github.com/Bodo-Mostafa)**
      - **[Mohamed Mostafa](./https://github.com/Mohamed-Mostafaaa)**
